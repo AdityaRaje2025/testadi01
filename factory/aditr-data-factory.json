@@ -1,0 +1,9 @@
+{
+	"name": "aditr-data-factory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "94cc0957-9df9-48db-b2c4-a8220179b080",
+		"tenantId": "afe38166-d934-4909-9748-c84194e89187"
+	}
+}
